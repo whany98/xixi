@@ -887,6 +887,29 @@
             "repo": "https://github.com/age174/-/blob/main/mmdzz.js",
             "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/mmdzz.js"
+    } ,
+    {
+            "id": "xxl",
+            "name": "消消乐",
+            "keys": ["xxlheader1","xxlbody1","xxlheader2","xxlbody2"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "xxlstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "xxlcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/whany98/xixi/blob/main/xxl.js",
+            "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
+            "script": "https://raw.githubusercontent.com/whany98/xixi/main/xxl.js"
     } 
 ]
 }
