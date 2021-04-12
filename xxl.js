@@ -1,7 +1,7 @@
 const jsname='妞妞'
 const $ = Env(jsname)
 let i = 0;
-var num = 2000;
+var num = 3000;
 let xxlheader1 = $.getdata('xxlheader1')
 let xxlbody1 = $.getdata('xxlbody1')
 
