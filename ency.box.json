@@ -910,6 +910,29 @@
             "repo": "https://github.com/whany98/xixi/blob/main/xxl.js",
             "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
             "script": "https://raw.githubusercontent.com/whany98/xixi/main/xxl.js"
+    } ,
+    {
+            "id": "smz",
+            "name": "睡眠赚",
+            "keys": ["ygkcurl","ygkchd"],
+            "author": "@ency",
+            "settings": [{
+            "id": "smzstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "smzcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/whany98/xixi/blob/main/smz.js",
+            "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
+            "script": "https://raw.githubusercontent.com/whany98/xixi/main/smz.js"
     } 
 ]
 }
