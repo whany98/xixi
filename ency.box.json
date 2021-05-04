@@ -76,7 +76,7 @@
     {
             "id": "gdfk",
             "name": "滚动方块",
-            "keys": ["gdfkurl1","gdfkhd1","gdfkggurl1","gdfkurl2","gdfkhd2","gdfkggurl2"],
+            "keys": ["gdfkurl","gdfkhd","gdfkggurl","gdfkurl2","gdfkhd2","gdfkggurl2"],
             "author": "@ency",
             "settings": [{
             "id": "gdfkstatus",
