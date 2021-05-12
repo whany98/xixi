@@ -76,7 +76,7 @@
     {
             "id": "wdwhd",
             "name": "我的网红店",
-            "keys": ["wdwhdbody","wdwhdhd","wdwhdspbody"],
+            "keys": ["wdwhdbody","wdwhdhd","wdwhdspbody","wdwhdbody2","wdwhdhd2","wdwhdspbody2","wdwhdbody3","wdwhdhd3","wdwhdspbody3"],
             "author": "@ency",
             "settings": [{
             "id": "wdwhdstatus",
