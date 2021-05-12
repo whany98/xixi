@@ -74,27 +74,27 @@
             "script": "https://raw.githubusercontent.com/whany98/xixi/main/smz.js"
     } ,
     {
-            "id": "gdfk",
-            "name": "滚动方块",
-            "keys": ["gdfkurl","gdfkhd","gdfkggurl","gdfkurl2","gdfkhd2","gdfkggurl2"],
+            "id": "wdwhd",
+            "name": "我的网红店",
+            "keys": ["wdwhdbody","wdwhdhd","wdwhdspbody"],
             "author": "@ency",
             "settings": [{
-            "id": "gdfkstatus",
+            "id": "wdwhdstatus",
             "name": "当前账号",
             "val": "1",
             "type": "number",
             "desc": "当前账号对应"
     },
     {
-            "id": "gdfkcount",
+            "id": "wdwhdcount",
             "name": "账号个数",
             "val": "1",
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/whany98/xixi/blob/main/gdfk.js",
-            "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
-            "script": "https://raw.githubusercontent.com/whany98/xixi/main/gdfk.js"
+            "repo": "",
+            "icons": ["", ""],
+            "script": ""
     } 
 ]
 }
