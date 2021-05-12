@@ -1,9 +1,9 @@
 {
-            "id": "age174.app.sub",
-            "name": "自用 应用订阅",
-            "author": "@feizao",
-            "icon": "https://s3.ax1x.com/2021/02/17/ygLAIA.jpg",
-            "repo": "https://github.com/age174/-",
+            "id": "ency.app.sub",
+            "name": "ency 应用订阅",
+            "author": "@ency",
+            "icon": "https://ftp.bmp.ovh/imgs/2021/05/a49833e49f15dc6b.jpg",
+            "repo": "https://github.com/whany98/xixi",
             "apps": [{
             "id": "dkd",
             "name": "多看点",
