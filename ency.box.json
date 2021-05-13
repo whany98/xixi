@@ -95,6 +95,29 @@
             "repo": "",
             "icons": ["", ""],
             "script": ""
+    } ,
+    {
+            "id": "fhxz",
+            "name": "富豪小镇",
+            "keys": ["fhxzurl","fhxzhd","fhxzurl2","fhxzhd2","fhxzurl3","fhxzhd3","fhxzurl4","fhxzhd4","fhxzurl5","fhxzhd5"],
+            "author": "@ency",
+            "settings": [{
+            "id": "fhxzstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "fhxzcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "",
+            "icons": ["", ""],
+            "script": ""
     } 
 ]
 }
