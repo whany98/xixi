@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com/PJUNYE2/docker-jd/main/v4mb.tar.gz
+wget https://raw.githubusercontent.com/whany98/xixi/main/docker-mb/v4mb.tar.gz
 tar -zxvf v4mb.tar.gz
 rm -f v4mb.tar.gz
 mv v4mb/panel panel
